@@ -1,0 +1,27 @@
+{
+  "name": "reqwrong",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "papa-stub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jagordon/reqwrong.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "James Gordon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jagordon/reqwrong/issues"
+  },
+  "homepage": "https://github.com/Jagordon/reqwrong#readme",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.17.1",
+    "got": "^11.8.0"
+  }
+}
